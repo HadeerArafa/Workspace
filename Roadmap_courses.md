@@ -80,6 +80,11 @@ At The end of Beginner phase apply all what you've learned on a project.
 [Probability](https://www.coursera.org/learn/probability-theory-statistics)-Coursera<br>
 [Probability](https://www.khanacademy.org/math/statistics-probability/probability-library)-Khan Academy<br>
 [Book](https://drive.google.com/file/d/1oQMZQk0KSoLsOjDKnjWWoKWIF_LFCV5a/view?usp=sharing)-Probability<br>
+[Inferential stats 1](https://www.coursera.org/specializations/statistics-with-python)-Coursera<br>
+[Inferential stats 2](https://www.coursera.org/learn/statistical-inferences)-Coursera<br>
+[Bayesian Statistics 1](https://www.coursera.org/learn/bayesian-statistics)-Coursera<br>
+[Bayesian Statistics 2](https://www.coursera.org/learn/mcmc-bayesian-statistics)-Coursera<br>
+[Mixture Models](https://www.coursera.org/learn/mixture-models)-Coursera<br>
 
 
 2. **Time Series Analysis**<br>
@@ -134,43 +139,33 @@ At The end of Beginner phase apply all what you've learned on a project.
 After finishing this level apply to 2 or 3 good sized projects.
 
 ## Advanced
-**This section is subjected to A lot of editing as I haven't finished it yet..**
 
-1. Deep Learning <br>
-[Specialization](https://www.coursera.org/specializations/deep-learning)<br>
+1. **Deep Learning** <br>
+[Course](https://www.coursera.org/specializations/deep-learning)-Coursera<br>
 [Book](https://d2l.ai/d2l-en.pdf?fbclid=IwAR0sVdA8VFYpNZCpYZHgo_kl_HYrjcjDfjEka26D8xRWAhbhh6mmSNIXg3U)<br>
-[github of Dive into DL](https://github.com/d2l-ai/d2l-en?fbclid=IwAR0QN35b-NHHWq_zKISA1cbI063aRqqoKqR_0e3cpnT5h58GkcNbCIJs3iw)
+[Github of the previous book](https://github.com/d2l-ai/d2l-en?fbclid=IwAR0QN35b-NHHWq_zKISA1cbI063aRqqoKqR_0e3cpnT5h58GkcNbCIJs3iw)
 
-2. Tensorflow..<br>
-[Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)<br>
+2. **Tensorflow**<br>
+[Course](https://www.coursera.org/specializations/tensorflow-in-practice)-Coursera<br>
 
-3. Advanced Data Science+ apache spark<br>
-[Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)<br>
-4. NLP <br>
-[Specialization](https://www.coursera.org/specializations/natural-language-processing)<br>
+3. **Advanced Data Science + apache spark**<br>
+[Course](https://www.coursera.org/specializations/advanced-data-science-ibm)-Coursera<br>
 
-5. Inferential stats <br>
-[Specialization, 2nd & 3rd courses](https://www.coursera.org/specializations/statistics-with-python)<br>
-[course](https://www.coursera.org/learn/statistical-inferences)<br>
-6. Bayesian stats.<br>
-[1](https://www.coursera.org/learn/bayesian-statistics)<br>
-[2](https://www.coursera.org/learn/mcmc-bayesian-statistics)<br>
-[3](https://www.coursera.org/learn/mixture-models)<br>
-7. Tableau <br>
-[Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)<br>
-[docs](https://www.tableau.com/learn/training/20201)<br>
-[course](https://learn.datacamp.com/courses/introduction-to-tableau)<br>
-8. Model Deployment <br>
-[Flask tutorial](https://towardsdatascience.com/deploying-a-deep-learning-model-using-flask-3ec166ef59fb)<br>
-[Specialization with TF](https://www.coursera.org/specializations/tensorflow-data-and-deployment)<br>
+4. **NLP**<br>
+[Course](https://www.coursera.org/specializations/natural-language-processing)-Coursera<br>
+
+
+7. **Tableau**<br>
+[Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)-Datacamp<br>
+[Course](https://www.tableau.com/learn/training/20201)-Tableau<br>
+[course](https://learn.datacamp.com/courses/introduction-to-tableau)-Datacamp<br>
+
+
+8. **Model Deployment** `More to be added here..`<br>
+[Blog](https://towardsdatascience.com/deploying-a-deep-learning-model-using-flask-3ec166ef59fb)-Medium<br>
+[Course](https://www.coursera.org/specializations/tensorflow-data-and-deployment)-Coursera<br>
 [Guided project](https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask)<br>
 
-> more to be added here..
 
-
-10. Probabilistic Graphical Models <br>[Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)<br>
-***
-
-## ...MORE yet to come in this section..
-
-***
+10. **Probabilistic Graphical Models** `MORE yet to come in this section..`<br>
+[Course](https://www.coursera.org/specializations/probabilistic-graphical-models)-Coursera<br>
