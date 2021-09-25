@@ -1,7 +1,7 @@
 
 # Data Science Circle roadmap 2020
 
-***> Constantly adding new content..***
+<font color='green'> **> Constantly adding new content..** </font>
 ### To be able to understand the concepts of DS and ML you MUST master statistics and Math.
 
 **for data camp courses we have access to it, if you don’t Microsoft Azure tools gives 2 free months,also github student pack give 3 months google how to get it.**
