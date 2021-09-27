@@ -1,15 +1,18 @@
 
 <h1 align="center">Data Science Circle roadmap 2021</h1> 
 
-### To be able to understand the concepts of DS and ML you MUST master statistics and Math.
 
-**for data camp courses we have access to it, if you don’t Microsoft Azure tools gives 2 free months,also github student pack give 3 months google how to get it.**
+> For Datacamp courses we have access to it, if you don’t:<br>
+     <li> Microsoft Azure tools gives you 2 free months.<br>
+     <li> github student pack gives you 3 months.<br>
+   `if you don't know how, google it :)`
 
 ### This track is divided into 3 phases..
-
- ### 1. Beginner: you get a basic understanding of data analysis, tools and techniques.
- ### 2. Intermediate: dive deeper in more complex topics of ML, Math and data engineering.
- ### 3. Advanced: where we learn more advanced Math, DL and Deployment.
+```
+1. Beginner: you get a basic understanding of data analysis, tools and techniques.
+2. Intermediate: dive deeper in more complex topics of ML, Math and data engineering.
+3. Advanced: where we learn more advanced Math, DL and Deployment.
+```
 
 ## Let's start...
 
@@ -73,6 +76,7 @@ Optional: [Notebook](https://www.kaggle.com/ashishg21/data-cleaning-and-some-ana
 At The end of Beginner phase apply all what you've learned on a project.
 
 ## Intermediate.
+> Estimated time: 2-3 months
 #### You can advance your analytical skills before jumpying to ML by taking the following topics:
 1. **Advanced Statistics**<br>
 [Book](https://b-ok.africa/book/2737548/7659e9)-Think Stats<br>
@@ -80,11 +84,6 @@ At The end of Beginner phase apply all what you've learned on a project.
 [Probability](https://www.coursera.org/learn/probability-theory-statistics)-Coursera<br>
 [Probability](https://www.khanacademy.org/math/statistics-probability/probability-library)-Khan Academy<br>
 [Book](https://drive.google.com/file/d/1oQMZQk0KSoLsOjDKnjWWoKWIF_LFCV5a/view?usp=sharing)-Probability<br>
-[Inferential stats 1](https://www.coursera.org/specializations/statistics-with-python)-Coursera<br>
-[Inferential stats 2](https://www.coursera.org/learn/statistical-inferences)-Coursera<br>
-[Bayesian Statistics 1](https://www.coursera.org/learn/bayesian-statistics)-Coursera<br>
-[Bayesian Statistics 2](https://www.coursera.org/learn/mcmc-bayesian-statistics)-Coursera<br>
-[Mixture Models](https://www.coursera.org/learn/mixture-models)-Coursera<br>
 
 
 2. **Time Series Analysis**<br>
@@ -104,6 +103,11 @@ At The end of Beginner phase apply all what you've learned on a project.
 [Tutorial](https://realpython.com/beautiful-soup-web-scraper-python/)-Realpython<br>
 [Book](https://b-ok.africa/book/3515980/5d50aa)<br>
 
+  
+7. **Advanced SQL**<br>
+[Course](https://learn.datacamp.com/courses/joining-data-in-postgresql)-Datacamp<br>
+[Course](https://learn.datacamp.com/courses/intermediate-sql)-Datacamp<br>
+      
 <hr>
 
 #### ML Journey Begins from here:
@@ -127,19 +131,37 @@ At The end of Beginner phase apply all what you've learned on a project.
 [Book](https://b-ok.cc/book/3583182/056a36)<br>
 
 
-7. **Advanced SQL**<br>
-[Course](https://learn.datacamp.com/courses/joining-data-in-postgresql)-Datacamp<br>
-[Course](https://learn.datacamp.com/courses/intermediate-sql)-Datacamp<br>
 
-
-9. **Interpreting ML models**  `more to be added here` <br>
+5. **Interpreting ML models**  `more to be added here` <br>
 [Docs](https://shap.readthedocs.io/en/latest/)-SHAP<br>
 [Course](https://www.kaggle.com/learn/machine-learning-explainability)-Kaggle<br>
 
 After finishing this level apply to 2 or 3 good sized projects.
 
 ## Advanced
-
+> Estimated time: 2-3 months
+#### Advanced Analytical skills resources:
+      
+1. **Advanced Statistics**<br>
+[Inferential stats 1](https://www.coursera.org/specializations/statistics-with-python)-Coursera<br>
+[Inferential stats 2](https://www.coursera.org/learn/statistical-inferences)-Coursera<br>
+[Bayesian Statistics 1](https://www.coursera.org/learn/bayesian-statistics)-Coursera<br>
+[Bayesian Statistics 2](https://www.coursera.org/learn/mcmc-bayesian-statistics)-Coursera<br>
+[Mixture Models](https://www.coursera.org/learn/mixture-models)-Coursera<br>
+      
+3. **Advanced Data Science + apache spark**<br>
+[Course](https://www.coursera.org/specializations/advanced-data-science-ibm)-Coursera<br>
+      
+      
+2. **Tableau**<br>
+[Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)-Datacamp<br>
+[Course](https://www.tableau.com/learn/training/20201)-Tableau<br>
+[course](https://learn.datacamp.com/courses/introduction-to-tableau)-Datacamp<br>
+      
+<hr>
+      
+#### DL Journey Begins from here:<br>  
+      
 1. **Deep Learning** <br>
 [Course](https://www.coursera.org/specializations/deep-learning)-Coursera<br>
 [Book](https://d2l.ai/d2l-en.pdf?fbclid=IwAR0sVdA8VFYpNZCpYZHgo_kl_HYrjcjDfjEka26D8xRWAhbhh6mmSNIXg3U)<br>
@@ -148,24 +170,20 @@ After finishing this level apply to 2 or 3 good sized projects.
 2. **Tensorflow**<br>
 [Course](https://www.coursera.org/specializations/tensorflow-in-practice)-Coursera<br>
 
-3. **Advanced Data Science + apache spark**<br>
-[Course](https://www.coursera.org/specializations/advanced-data-science-ibm)-Coursera<br>
 
-4. **NLP**<br>
+3. **NLP**<br>
 [Course](https://www.coursera.org/specializations/natural-language-processing)-Coursera<br>
 
 
-7. **Tableau**<br>
-[Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)-Datacamp<br>
-[Course](https://www.tableau.com/learn/training/20201)-Tableau<br>
-[course](https://learn.datacamp.com/courses/introduction-to-tableau)-Datacamp<br>
-
-
-8. **Model Deployment** `More to be added here..`<br>
+4. **Model Deployment** `More to be added here..`<br>
 [Blog](https://towardsdatascience.com/deploying-a-deep-learning-model-using-flask-3ec166ef59fb)-Medium<br>
 [Course](https://www.coursera.org/specializations/tensorflow-data-and-deployment)-Coursera<br>
 [Guided project](https://www.coursera.org/projects/deploy-models-tensorflow-serving-flask)<br>
 
 
-10. **Probabilistic Graphical Models** `MORE yet to come in this section..`<br>
+5. **Probabilistic Graphical Models** `MORE yet to come in this section..`<br>
 [Course](https://www.coursera.org/specializations/probabilistic-graphical-models)-Coursera<br>
+
+```      
+More to come in this level...
+```
